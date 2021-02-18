@@ -1,6 +1,6 @@
 # Instalando o Ecossistema Hadoop – Parte 2
 
-3º Capítulo de continuação do anterior com Instalação e Configuração do Hadoop. Configurar para ambiente Pseudo-Distribuído para criar ambiente de teste. Inicialização do HDFS e Yarn além da Instalação e Configuração de produtos do Ecossistema Hadoop:
+3º Capítulo de continuação do anterior com Instalação e Configuração do Hadoop. Configurar para ambiente Pseudo-Distribuído para criar ambiente de teste. Inicialização do HDFS e Yarn além da Instalação e Configuração de produtos do Ecossistema Hadoop e uma Introdução as Máquinas Virtuais Cloudera/Hortonworks e Containers Docker:
 
 <ul>
   <li>Introdução</li>
