@@ -4,7 +4,7 @@
 
 <ul>
   <li>Introdução</li>
-  <li>Instalação do Apache Hadoop – 6 Partes</li>
+  <li>Instalação do ApREADMache Hadoop – 6 Partes</li>
   <li>Troubleshooting – Alerta de Aprendizado</li>
   <li>Inicializando o HDFS</li>
   <li>Processando Big Data com Hadoop – 3 Partes</li>
