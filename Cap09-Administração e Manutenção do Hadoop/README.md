@@ -1,6 +1,6 @@
 # Administração e Manutenção do Hadoop
 
-9º Capítulo com o objetivo de dar uma visão geral sobre Adminstração e Manutenção do Apache Hadoop.:
+9º Capítulo com o objetivo de dar uma visão geral sobre Adminstração e Manutenção do Apache Hadoop:
 
 <ul>
   <li>Introdução</li>
