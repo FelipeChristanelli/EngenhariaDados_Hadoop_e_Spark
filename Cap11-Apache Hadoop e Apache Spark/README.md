@@ -1,6 +1,6 @@
 # Apache Hadoop e Apache Spark
 
-11º Capítulo aprendemos sobre o Apache Mahout:
+11º Capítulo aprendemos a trabalhar com Apache Hadoop e Apache Spark juntos. Foco em tarefas de desenvolvimento, processamento de grandes conjuntos de dados. Módulos do Spark. Trabalhar tanto na Máquina Virtual quanto virtualmente pela Máquina Física:
 
 <ul>
   <li>Introdução</li>
