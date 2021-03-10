@@ -1,6 +1,6 @@
 # Engenharia de Dados com Hadoop e Spark
 
-3º Curso da Formação Cientista de Dados da Data Science Academy. O curso está dividido em algumas partes, sendo: Instalação do Ecossistema Hadoop com todos as ferramentas necessárias; Armazenamento de Dados; Machine Learning; Hadoop e Spark e Projetos com o Ecossistema. Um curso de Engenharia de Dados Hadoop e Spark voltado para Cientista de Dados:
+3º Curso da Formação Cientista de Dados da Data Science Academy. O curso está dividido em algumas partes, sendo: Instalação do Ecossistema Hadoop com todos as ferramentas necessárias; Armazenamento de Dados; Machine Learning; Hadoop e Spark e Projetos com o Ecossistema:
 
 <ul>
   <li>Introdução</li>
